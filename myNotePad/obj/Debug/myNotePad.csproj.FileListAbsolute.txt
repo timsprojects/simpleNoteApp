@@ -1,0 +1,288 @@
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\myNotePad.dll
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad.apk
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad-Signed.apk
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\SQLite-net.dll
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\SQLitePCL.batteries.dll
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\SQLitePCL.raw.dll
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\SQLitePCLPlugin_esqlite3.dll
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\SQLite-net.xml
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\SQLite-net.dll.mdb
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.dll
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\android\bin\myNotePad.myNotePad.apk
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\res\layout\customrow.xml
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\res\layout\main.xml
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\res\values\strings.xml
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\res\drawable\icon.png
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\res\drawable\arrowright.png
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg.xml
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg_hover.xml
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\res\drawable\list_selector.xml
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\R.cs.flag
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\uploadflags.txt
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\my documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\myNotePad.dll
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad.apk
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad-Signed.apk
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\myNotePad.dll
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\bin\myNotePad.myNotePad.apk
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\layout\customrow.xml
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\layout\addnote.xml
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\layout\editnote.xml
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\layout\main.xml
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\values\strings.xml
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\drawable\icon.png
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\drawable\arrowright.png
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg.xml
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg_hover.xml
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\res\drawable\list_selector.xml
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\R.cs.flag
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\uploadflags.txt
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\Java.Interop.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\Mono.Android.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\mscorlib.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\SQLite-net.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\System.Core.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\System.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\System.Net.Http.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\System.Runtime.Serialization.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\System.Xml.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\bin\Debug\System.Xml.Linq.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\Java.Interop.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\Mono.Android.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\mscorlib.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\SQLite-net.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\System.Core.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\System.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\System.Net.Http.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\15.08.2016\myNotePad\myNotePad\obj\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\myNotePad.dll
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad.apk
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad-Signed.apk
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\myNotePad.dll
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\bin\myNotePad.myNotePad.apk
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\layout\customrow.xml
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\layout\addnote.xml
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\layout\editnote.xml
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\layout\main.xml
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\values\strings.xml
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\drawable\icon.png
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\drawable\arrowright.png
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg.xml
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg_hover.xml
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\res\drawable\list_selector.xml
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\R.cs.flag
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\uploadflags.txt
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\Java.Interop.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\Mono.Android.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\mscorlib.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\SQLite-net.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\System.Core.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\System.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\System.Net.Http.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\System.Runtime.Serialization.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\System.Xml.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\bin\Debug\System.Xml.Linq.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\Java.Interop.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\Mono.Android.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\mscorlib.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\SQLite-net.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\System.Core.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\System.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\System.Net.Http.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\ALPHA\myNotePad\myNotePad\obj\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\myNotePad.dll
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad.apk
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad-Signed.apk
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\myNotePad.dll
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\bin\myNotePad.myNotePad.apk
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\layout\customrow.xml
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\layout\addnote.xml
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\layout\editnote.xml
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\layout\main.xml
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\values\strings.xml
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\drawable\icon.png
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\drawable\arrowright.png
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg.xml
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg_hover.xml
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\res\drawable\list_selector.xml
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\R.cs.flag
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\uploadflags.txt
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\Java.Interop.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\Mono.Android.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\mscorlib.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\SQLite-net.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\System.Core.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\System.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\System.Net.Http.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\System.Runtime.Serialization.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\System.Xml.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\bin\Debug\System.Xml.Linq.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\Java.Interop.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\Mono.Android.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\mscorlib.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\SQLite-net.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\System.Core.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\System.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\System.Net.Http.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+\\telmar\users\ts033\My Documents\Notepad Project\Working 17.08.16\myNotePad\myNotePad\obj\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\myNotePad.dll
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad.apk
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad-Signed.apk
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\myNotePad.dll
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\bin\myNotePad.myNotePad.apk
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\layout\customrow.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\layout\addnote.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\layout\editnote.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\layout\main.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\values\strings.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable\icon.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable\arrowright.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg_hover.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable\list_selector.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\R.cs.flag
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\uploadflags.txt
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\Java.Interop.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\Mono.Android.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\mscorlib.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\SQLite-net.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\System.Core.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\System.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\System.Net.Http.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\System.Runtime.Serialization.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\System.Xml.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\bin\Debug\System.Xml.Linq.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\Java.Interop.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\Mono.Android.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\mscorlib.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\myNotePad.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\SQLite-net.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\System.Core.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\System.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\System.Net.Http.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\values\styles.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable\splashimg.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable\backgroundstyle.xml
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-hdpi\splashimg.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-mdpi\splashimg.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-xhdpi\splashimg.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-xxhdpi\splashimg.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-xxxhdpi\splashimg.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-hdpi\arrowright.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-mdpi\arrowright.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-xhdpi\arrowright.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-xxhdpi\arrowright.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\res\drawable-xxxhdpi\arrowright.9.png
+\\telmar\users\ts033\My Documents\ClassCode\myNotePad\myNotePad\obj\Debug\myNotePad.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\myNotePad.dll
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad.apk
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\myNotePad.myNotePad-Signed.apk
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\myNotePad.dll
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\bin\myNotePad.myNotePad.apk
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\layout\customrow.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\layout\addnote.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\layout\editnote.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\layout\main.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\values\strings.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable\icon.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable\arrowright.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable\gradient_bg_hover.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable\list_selector.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\values\styles.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable\splashimg.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable\backgroundstyle.xml
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-hdpi\splashimg.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-mdpi\splashimg.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-xhdpi\splashimg.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-xxhdpi\splashimg.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-xxxhdpi\splashimg.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-hdpi\arrowright.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-mdpi\arrowright.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-xhdpi\arrowright.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-xxhdpi\arrowright.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\res\drawable-xxxhdpi\arrowright.9.png
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\R.cs.flag
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\uploadflags.txt
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\Java.Interop.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\Mono.Android.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\mscorlib.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\myNotePad.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\SQLite-net.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\System.ComponentModel.Composition.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\System.Core.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\System.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\System.Net.Http.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\System.Runtime.Serialization.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\System.ServiceModel.Internals.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\System.Xml.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\System.Xml.Linq.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\Java.Interop.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\Mono.Android.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\mscorlib.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\myNotePad.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\SQLite-net.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\System.Core.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\System.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\System.Net.Http.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\obj\Debug\myNotePad.dll.mdb
+S:\Software\Submissions\Tim Speake\Assesment 5 - Android SQLite\myNotePad\myNotePad\bin\Debug\myNotePad.dll.mdb

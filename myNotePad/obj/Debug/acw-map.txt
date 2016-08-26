@@ -1,0 +1,20 @@
+myNotePad.AddNote, myNotePad;md577a92207e69e14a92b96a84d908af051.AddNote
+myNotePad.AddNote, myNotePad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md577a92207e69e14a92b96a84d908af051.AddNote
+myNotePad.AddNote;md577a92207e69e14a92b96a84d908af051.AddNote
+mynotepad.AddNote;md577a92207e69e14a92b96a84d908af051.AddNote
+myNotePad.DataAdapter, myNotePad;md577a92207e69e14a92b96a84d908af051.DataAdapter
+myNotePad.DataAdapter, myNotePad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md577a92207e69e14a92b96a84d908af051.DataAdapter
+myNotePad.DataAdapter;md577a92207e69e14a92b96a84d908af051.DataAdapter
+mynotepad.DataAdapter;md577a92207e69e14a92b96a84d908af051.DataAdapter
+myNotePad.EditNote, myNotePad;md577a92207e69e14a92b96a84d908af051.EditNote
+myNotePad.EditNote, myNotePad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md577a92207e69e14a92b96a84d908af051.EditNote
+myNotePad.EditNote;md577a92207e69e14a92b96a84d908af051.EditNote
+mynotepad.EditNote;md577a92207e69e14a92b96a84d908af051.EditNote
+myNotePad.MainActivity, myNotePad;md577a92207e69e14a92b96a84d908af051.MainActivity
+myNotePad.MainActivity, myNotePad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md577a92207e69e14a92b96a84d908af051.MainActivity
+myNotePad.MainActivity;md577a92207e69e14a92b96a84d908af051.MainActivity
+mynotepad.MainActivity;md577a92207e69e14a92b96a84d908af051.MainActivity
+myNotePad.SplashActivity, myNotePad;md577a92207e69e14a92b96a84d908af051.SplashActivity
+myNotePad.SplashActivity, myNotePad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md577a92207e69e14a92b96a84d908af051.SplashActivity
+myNotePad.SplashActivity;md577a92207e69e14a92b96a84d908af051.SplashActivity
+mynotepad.SplashActivity;md577a92207e69e14a92b96a84d908af051.SplashActivity
